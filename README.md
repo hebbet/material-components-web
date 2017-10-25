@@ -4,6 +4,8 @@
 
 # Material Components for the web
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hebbet/material-components-web.svg)](https://greenkeeper.io/)
+
 Material Components for the web (MDC-Web) help developers execute [Material Design](https://www.material.io).
 Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional web projects.
 
